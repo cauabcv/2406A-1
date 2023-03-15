@@ -88,14 +88,32 @@ fun main() {
 }
 //-------------------------------------------------------------------------------------------
 fun main() {
-    
-    // Exercício - ◘ Faça um diálogo de no mínimo 15 linhas, nele deve conter,
+   // Exercício - ◘ Faça um diálogo de no mínimo 15 linhas, nele deve conter,
     // os nomes de quem estiver falando de forma concatenada usando variáveis 
     // ◘ Usem a criatividade ☺
     // 
-    // 
+    var nome = "Cauã"
+    var idade = 16
+    var cidade = "São Paulo"
     
+    var nome2 = "Adriano"
+    var idade = 17
+    var cidade = "São Paulo"
     
-    
-}
-//************************************************************************************************
+    println("$nome:opa,eai $nome2, como vai?")
+    println("$nome2:ah eai mano,de boa e vc?")
+    println("$nome:de boa tambem")
+    println("$nome:$nome2 vc ainda ta fazendo aquele curso sobre desenvolvimento de sistemas?")
+    println("$nome2:sim,porque?")
+    println("$nome:È que eu e uns amigos meu,estavamos pensando em estudar sobre programaçãonas férias,e lembrei de vc!")
+    println("$nome:mas vim primeiro te perguntar,se você vai querer?")
+    println("$nome2:ah mano acho uma boa ideia,só tenho que ver com meus pais se eles vão viajar")
+    println("$nome:")
+    println(...)
+    println(...)
+    println(...)
+    println(...)
+    println(...)
+    println(...)
+    }
+    //--------------------------------------------------------------------------------------------------------------------------
