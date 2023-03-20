@@ -87,3 +87,60 @@ fun main() {
     
 }
 //-------------------------------------------------------------------------------------------
+ 
+fun main() {
+    /*
+    //Operadores Matemáticos
+    
+    // + -> adição
+    // - -> subtração
+    // / -> divisão 
+    // * -> multiplicação
+    // % -> módulo - resto da divisão
+    // 
+    var halls = 6
+    var freegells = 6 
+    
+    println(halls % freegells)
+    */
+    
+    // EXERCICIO - Faça uma calculadora que contenha cada um dos operadores matematicos
+    // como resultado do cálculo de duas variáveis (contendo resultado para +, -, /, * e %),
+    // contendo também uma interface simples e bem bonito :)
+    // 
+    //   
+    //     
+    // 
+    println("************** minha calculadora**************") 
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("***           ********************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    println("**********************************************")
+    
+    
+    println("carros=1811 motos=512")
+    
+    var carros = 1811.0 
+    var motos = 512.0 
+    	
+    println("${(carros + motos)}     - ADIÇÃO")
+    println("${(carros - motos)}     - SUBTRAÇÃO")
+    println("${(carros / motos)}     - DIVISÃO")
+    println("${(carros * motos)}     - MULTIPLICAÇÃO")
+    println("${(carros % motos)}     - MÓDULO")
+    
+    println("**********************************************")
+    
+    
+    }
+    //----------------------------------------------------------------------------------------
