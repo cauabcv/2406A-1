@@ -313,7 +313,150 @@ fun main() {
     
     var 
     
+    ------------------------------------------------------------------------------
+     
+fun main() {
+     /*
+    // 1 - faça um programa usando duas variaveis que representem cada uma,um numero.
+    // ele (programa) deve verificar qual dos dois é o maior numero e imprimi-lo no console
     
+    
+    
+    //2 - faça um programa que verifique se o valor de uma variavel é
+    //maior,igual ou menor que 0 (positivo ou negativo,ou nenhum dos dois)
+      
+    
+    //
+    */
+    
+   // 1
+   /*
+    var schweinsteiger = 10 
+    var khedira = 10 
+    if(schweinsteiger > khedira){
+        println(schweinsteiger)
+    }else if(schweinsteiger < khedira){
+        println(khedira) 
+    }else{
+        println("$schweinsteiger e $khedira são iguais")
+    }
+    */ 
+     
+    // 2
+     
+      
+    /* 
+    var kroos = 20 
+    if(kroos > 0){
+        println("numero positivo")
+    }else if(kroos < 0){
+        println("numero positivo")
+    }else{
+        println("numero igusl a zero")
+    }
+    */ 
+    
+    
+    // Operadores logicos 
+    // 
+    // && -> e
+    // || -> ou
+    // 
+    // Tabela Verdade
+    // 
+    // &&
+    // VVV -> V
+    // VVF -> F
+    // FFF -> F
+    // FVF -> F
+    // FVV -> F
+    // VFV -> F
+    // 
+    // 
+    // 
+    // 
+    // 
+    // ||
+    // VV -> V 
+    // VF -> V
+    // FV -> V
+    // FF -> F
+    // 
+    // 
+    // 
+    
+    //----------------------------------------------------------------------------------
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
     
     
     
