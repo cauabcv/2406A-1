@@ -388,7 +388,119 @@ fun main() {
     //----------------------------------------------------------------------------------
     
     
+     
+fun main() {
+    /* Operadores logicos 
+    // 
+    // && -> e
+    // || -> ou
+    // 
+    // Tabela Verdade
+    // 
+    // &&
+    // VVV -> V
+    // VVF -> F
+    // FFF -> F
+    // FVF -> F
+    // FVV -> F
+    // VFV -> F
+    // 
+    // 
+    // 
+    // 
+    // 
+    // ||
+    // VV -> V 
+    // VF -> V
+    // FV -> V
+    // FF -> F
+    // 
+    // 
+    */ 
+    /*
+    // Na pratica Operadores logicos
+    // 
+    //  minha mãe pediu pra eu ir na loja de talheres e ela falou:
+    //  traga uma  concha de feijão,se tiver garfo, faca e colher 
+    //    
+    var garfo = true 
+    var faca = false
+    var colher = true
     
+    //println(garfo && faca)
+    println((garfo && faca) || colher)
+    */
+    
+    // Show do Pericles
+    // pro cidadão menor de 18 entrar,ele precisa ter pelo menos 12 anos E
+    // estar acompanhado dos pais 
+    
+    var idade = 15
+    var compais = true  
+    var comIndentidade = true
+    
+    if(idade < 18){
+        if((idade >= 12 && comIndentidade) || compais == true){
+        println("Aproveite o show.. jovem!! ")
+    }else{
+        println("Tu não pode entrar!") 
+    }
+    }else{
+        println("Aproveite o show!!")
+    }
+    
+    
+    
+    // Exercicio -> No MetroidVania, para o hero ir para a tela de
+    // Game Over,
+    // seus corações precisam ser igual a zero e 
+    // suas vidas precisam ser menor ou igual a zero 
+    
+    // Simule com operadores logicos quando ele vai para o gameover
+    // e quando ele não vai 
+      
+    
+    
+    var gameover = 0
+    var corações = 1  
+    var vidas
+    
+    if(idade < 18){
+        if((idade >= 12 && comIndentidade) || compais == true){
+        println("Aproveite o show.. jovem!! ")
+    }else{
+        println("Tu não pode entrar!") 
+    }
+    }else{
+        println("Aproveite o show!!")
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
     
     
     
