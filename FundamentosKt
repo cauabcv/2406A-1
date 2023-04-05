@@ -479,6 +479,81 @@ fun main() {
     
     
     
+
+fun main() {
+   /*
+    // Simule com operadores logicos quando ele vai para o gameover
+    // e quando ele não vai 
+      
+    
+ 
+    var coracoes = 1  
+    var vidas = 3
+    
+    if(coracoes == 0 && vidas <= 0){
+        println("Game Over!! ")
+    }else{
+        println(" O jogo continua!") 
+    }
+    */
+    
+    //
+    // When
+    //
+    // Comparação de quando um valor for igual a um determinado valor,
+    // uma determunada ação será executada
+    // 
+    // Estrutura do When
+    // 
+    // var auxiliar = valor
+    // 
+    // when(auxiliar){
+    // 
+    // Valor -> {ação}
+    // Valor -> {ação} 
+    // Valor -> {ação}
+    // Valor -> {ação}
+    // Valor -> {ação}
+    // Else -> {ação}
+    // }
+    // Será usado geralmente quando durante o programa o valor da variavel 
+    // não for estatico,ou seja, ele estiver mudando 
+    //
+    //
+
+    var mes = 5
+    
+    
+    
+    
+    when(mes){
+        1 -> {println("Lisboa")
+        mes++
+        }
+        2 -> {println("Nova York")}
+        3 -> {println("Rio de Janeiro")}
+        4 -> {println("São Paulo")}
+        5 -> {println("Keylandia")}
+        6 -> {println("Miwaukee")}
+        7 -> {println("Barcelona")}
+        8 -> {println("Springfield")}
+        9 -> {println("Los Pollos Hermanos ")}
+        10 -> {println("Elmore")}
+        11 -> {println("Toronto")}
+        12 -> {println("Seoul")}
+        else -> {println("Acordou")}
+    }
+
+
+
+
+
+
+
+
+
+
+}
     
     
     
