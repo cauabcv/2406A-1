@@ -554,6 +554,558 @@ fun main() {
 
 
 }
+    fun main() {
+       var mes = 5
+    
+    
+    /*
+    
+    when(mes){
+        1 -> {println("Lisboa")
+        mes++
+        }
+        2 -> {println("Nova York")}
+        3 -> {println("Rio de Janeiro")}
+        4 -> {println("São Paulo")}
+        5 -> {println("Keylandia")}
+        6 -> {println("Miwaukee")}
+        7 -> {println("Barcelona")}
+        8 -> {println("Springfield")}
+        9 -> {println("Los Pollos Hermanos ")}
+        10 -> {println("Elmore")}
+        11 -> {println("Toronto")}
+        12 -> {println("Seoul")}
+        else -> {println("Acordou")}
+      */  
+        
+        //Exercicio -> Escreva um programa em Kotlin que declare uma variavel chamada 
+        //"diaSemana" do tipo String,que represente um dia da semana.Em seguida, utilize a
+        //declaração "when" para exibir uma mensagem na tela informando se o dia da semana é
+        //um dia util ou um final da semana
+        
+        
+    
+    var diaSemana = "Pascoa"
+    
+       when(diaSemana){
+    
+        "segunda" -> {println("dia util")}
+       " terça" -> {println("dia util")}
+        "quarta" -> {println(" dia util")}
+        "quinta" -> {println(" dia util")}
+        "sexta" -> {println(" dia util")}
+        "sabado" -> {println("fim de semana ")}
+        "domingo" -> {println("fim de semana ")}
+        else -> {println("feriado")}
+       }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    fun main() {
+       var mes = 5
+    
+    
+    /*
+    
+    when(mes){
+        1 -> {println("Lisboa")
+        mes++
+        }
+        2 -> {println("Nova York")}
+        3 -> {println("Rio de Janeiro")}
+        4 -> {println("São Paulo")}
+        5 -> {println("Keylandia")}
+        6 -> {println("Miwaukee")}
+        7 -> {println("Barcelona")}
+        8 -> {println("Springfield")}
+        9 -> {println("Los Pollos Hermanos ")}
+        10 -> {println("Elmore")}
+        11 -> {println("Toronto")}
+        12 -> {println("Seoul")}
+        else -> {println("Acordou")}
+      */  
+        
+        //Exercicio -> Escreva um programa em Kotlin que declare uma variavel chamada 
+        //"diaSemana" do tipo String,que represente um dia da semana.Em seguida, utilize a
+        //declaração "when" para exibir uma mensagem na tela informando se o dia da semana é
+        //um dia util ou um final da semana
+        
+        
+    
+    var diaSemana = "Pascoa"
+    
+       when(diaSemana){
+    
+        "segunda" -> {println("dia util")}
+       " terça" -> {println("dia util")}
+        "quarta" -> {println(" dia util")}
+        "quinta" -> {println(" dia util")}
+        "sexta" -> {println(" dia util")}
+        "sabado" -> {println("fim de semana ")}
+        "domingo" -> {println("fim de semana ")}
+        else -> {println("feriado")}
+       }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    fun main() {
+       var mes = 5
+    
+    
+    /*
+    
+    when(mes){
+        1 -> {println("Lisboa")
+        mes++
+        }
+        2 -> {println("Nova York")}
+        3 -> {println("Rio de Janeiro")}
+        4 -> {println("São Paulo")}
+        5 -> {println("Keylandia")}
+        6 -> {println("Miwaukee")}
+        7 -> {println("Barcelona")}
+        8 -> {println("Springfield")}
+        9 -> {println("Los Pollos Hermanos ")}
+        10 -> {println("Elmore")}
+        11 -> {println("Toronto")}
+        12 -> {println("Seoul")}
+        else -> {println("Acordou")}
+      */  
+        
+        //Exercicio -> Escreva um programa em Kotlin que declare uma variavel chamada 
+        //"diaSemana" do tipo String,que represente um dia da semana.Em seguida, utilize a
+        //declaração "when" para exibir uma mensagem na tela informando se o dia da semana é
+        //um dia util ou um final da semana
+        
+        
+    
+    var diaSemana = "Pascoa"
+    
+       when(diaSemana){
+    
+        "segunda" -> {println("dia util")}
+       " terça" -> {println("dia util")}
+        "quarta" -> {println(" dia util")}
+        "quinta" -> {println(" dia util")}
+        "sexta" -> {println(" dia util")}
+        "sabado" -> {println("fim de semana ")}
+        "domingo" -> {println("fim de semana ")}
+        else -> {println("feriado")}
+       }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    fun main() {
+       var mes = 5
+    
+    
+    /*
+    
+    when(mes){
+        1 -> {println("Lisboa")
+        mes++
+        }
+        2 -> {println("Nova York")}
+        3 -> {println("Rio de Janeiro")}
+        4 -> {println("São Paulo")}
+        5 -> {println("Keylandia")}
+        6 -> {println("Miwaukee")}
+        7 -> {println("Barcelona")}
+        8 -> {println("Springfield")}
+        9 -> {println("Los Pollos Hermanos ")}
+        10 -> {println("Elmore")}
+        11 -> {println("Toronto")}
+        12 -> {println("Seoul")}
+        else -> {println("Acordou")}
+      */  
+        
+        //Exercicio -> Escreva um programa em Kotlin que declare uma variavel chamada 
+        //"diaSemana" do tipo String,que represente um dia da semana.Em seguida, utilize a
+        //declaração "when" para exibir uma mensagem na tela informando se o dia da semana é
+        //um dia util ou um final da semana
+        
+        
+    
+    var diaSemana = "Pascoa"
+    
+       when(diaSemana){
+    
+        "segunda" -> {println("dia util")}
+       " terça" -> {println("dia util")}
+        "quarta" -> {println(" dia util")}
+        "quinta" -> {println(" dia util")}
+        "sexta" -> {println(" dia util")}
+        "sabado" -> {println("fim de semana ")}
+        "domingo" -> {println("fim de semana ")}
+        else -> {println("feriado")}
+       }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    fun main() {
+       var mes = 5
+    
+    
+    /*
+    
+    when(mes){
+        1 -> {println("Lisboa")
+        mes++
+        }
+        2 -> {println("Nova York")}
+        3 -> {println("Rio de Janeiro")}
+        4 -> {println("São Paulo")}
+        5 -> {println("Keylandia")}
+        6 -> {println("Miwaukee")}
+        7 -> {println("Barcelona")}
+        8 -> {println("Springfield")}
+        9 -> {println("Los Pollos Hermanos ")}
+        10 -> {println("Elmore")}
+        11 -> {println("Toronto")}
+        12 -> {println("Seoul")}
+        else -> {println("Acordou")}
+      */  
+        
+        //Exercicio -> Escreva um programa em Kotlin que declare uma variavel chamada 
+        //"diaSemana" do tipo String,que represente um dia da semana.Em seguida, utilize a
+        //declaração "when" para exibir uma mensagem na tela informando se o dia da semana é
+        //um dia util ou um final da semana
+        
+        
+    
+    var diaSemana = "Pascoa"
+    
+       when(diaSemana){
+    
+        "segunda" -> {println("dia util")}
+       " terça" -> {println("dia util")}
+        "quarta" -> {println(" dia util")}
+        "quinta" -> {println(" dia util")}
+        "sexta" -> {println(" dia util")}
+        "sabado" -> {println("fim de semana ")}
+        "domingo" -> {println("fim de semana ")}
+        else -> {println("feriado")}
+       }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    fun main() {
+       var mes = 5
+    
+    
+    /*
+    
+    when(mes){
+        1 -> {println("Lisboa")
+        mes++
+        }
+        2 -> {println("Nova York")}
+        3 -> {println("Rio de Janeiro")}
+        4 -> {println("São Paulo")}
+        5 -> {println("Keylandia")}
+        6 -> {println("Miwaukee")}
+        7 -> {println("Barcelona")}
+        8 -> {println("Springfield")}
+        9 -> {println("Los Pollos Hermanos ")}
+        10 -> {println("Elmore")}
+        11 -> {println("Toronto")}
+        12 -> {println("Seoul")}
+        else -> {println("Acordou")}
+      */  
+        
+        //Exercicio -> Escreva um programa em Kotlin que declare uma variavel chamada 
+        //"diaSemana" do tipo String,que represente um dia da semana.Em seguida, utilize a
+        //declaração "when" para exibir uma mensagem na tela informando se o dia da semana é
+        //um dia util ou um final da semana
+        
+        
+    
+    var diaSemana = "Pascoa"
+    
+       when(diaSemana){
+    
+        "segunda" -> {println("dia util")}
+       " terça" -> {println("dia util")}
+        "quarta" -> {println(" dia util")}
+        "quinta" -> {println(" dia util")}
+        "sexta" -> {println(" dia util")}
+        "sabado" -> {println("fim de semana ")}
+        "domingo" -> {println("fim de semana ")}
+        else -> {println("feriado")}
+       }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    } 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
