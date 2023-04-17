@@ -666,6 +666,96 @@ fun main() {
     }
     
     
+    
+    
+    fun main() {
+  /*
+    var bateria = 100
+    
+    while(bateria >= 0){
+        println("$bateria%")
+        
+        when(bateria){
+            15 -> {println("Aparelho descarregando,conect ao carregador!")}
+            0 -> {println("Aparelho desligando!")}
+        }
+        bateria--
+    } 
+ 
+    
+    
+    
+    //do..while
+    //
+    //uma determinada ação será executada,ENQUANTO uma determinada condição for
+    //verdadeira
+    
+    //estrutura:
+    //
+    //do{
+    //ação
+    //}while(condição)
+    
+    var contador = 0
+    
+    do{
+        println(contador++)
+    }while(contador<= 10)
+        */ 
+    
+    // for - para
+    // 
+    // Para cada item em um intervalo ou colection,uma detrminada ação será executada
+    // estrutura:
+    // 
+    // for(vAuxiliar in intervalo ou colection){
+    // ação
+    // }
+    // 
+    // 
+    
+    
+    for(pneu in 1..4){
+        println("1 pneu")
+    }
+    
+    for(contador im 0..3){
+        println((contador +1)+"$pneu")
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}  
+        
+    
+    
+    
     	
     
     
