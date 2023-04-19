@@ -752,6 +752,70 @@ fun main() {
     
     
 }  
+fun main() {
+      // Exercicio -> Faça uma tabuada até o decimo multiplo de um numero escolhido,
+      // utilizando o Laço for
+      // em excessão as tabuadas do 0,1 e 2
+      // 
+      // Correção    
+      /*
+      for(calc in 0..10){
+          println(7* calc)
+      } 
+    
+      */
+     
+      // Collections
+      // 
+      // intervalo,listas,arrays,vetores etc      
+    
+     //tipos de lista
+    //
+    var List1 = Listof("tartaruga", 0,0.1,true)
+    
+    //propriedades das collections
+    
+    println(List1)//exibir a lista
+    println(List1.size)// retorna o tamanho da lista
+    println(List1.lastIndex)//retornar o ultimo index
+    println(List1[2]) // exibir o valor de um determinado index
+    println(List1.contains("tartaruga")) //compara se existe um determinado valor dentro da lista 
+    println(List1.IdexOf(0)) //indica o index de um determinado valor
+    println(List1.lastIndexOF(0.1)) //indica o ultimo de um determinado valor
+    println(List1.first()) // o valor do primeiro index
+    println(List1.last()) // o valor do ultimo indeex
+    println(List1.isEmpity()) //conparas e a lista ta vazia
+    
+    //<tags>
+    var List2 = listOF<String>("LeBron James","Stephen Curry","Michael Jordan","Perna Longa","Klay Thompson")
+    // lista a cima especifica o tipo de dados que vai ser guardado 
+    // 
+    // Obs
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
         
     
     
