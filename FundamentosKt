@@ -829,6 +829,204 @@ fun main() {
     // 
     // Exiba a lista de alunos respectiva de cada mes do ano
     // dica(interpretação de texto) 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+fun main() {
+    /*
+    //Exercicio -> A cada mes do ano,em uma turma de 5 alunos,entra um aluno novo
+    // .crie a lista inicial de alunos da turma
+    // .a cada mes adicione u  novo aluno (em linhas diferentes)
+    // .e 2 meses do ano,2 alunos foram transferidos
+    // da turma (dica: em meses diferentes)
+    // .e em 2 meses do ano,2 alunos foram substituido por
+    // outros dois alunos(dica: em meses diferentes)
+    // 
+    // Exiba a lista de alunos respectiva de cada mes do ano
+    // dica(interpretação de texto)
+    
+    var turma = mutableListOf<String>("Cauã","Julia","Davi","Pedro","Nicolas")
+    
+    println("turma incial")
+    println(turma)
+    
+    println("Janeiro")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Fevereiro ")
+    turma.add("Victor")
+    turma.remove("Pedro")
+    println(turma)
+    
+    println("Março")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Abril")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Maio")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Junho")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Julho")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Agosto")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Setembro")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Outubro")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Novembro")
+    turma.add("Miguel")
+    println(turma)
+    
+    println("Dezembro")
+    turma.add("Miguel")
+    println(turma)
+    */
+    
+    //POO
+    //
+    //Programação Orientada a Objetos
+    //
+    //Objetivo: SImular atividades e situações do mundo real
+    //
+    //objeto - elementos que podem interagir com um sistema  Ex.: pé
+    //
+    //Classe - denominação de um determinado objeto  Ex.: Membros do corpo
+    //
+    //atributos - caracteristas,propriedades,parâmetros  Ex.: Tamanho
+    //
+    //Métodos - Atividades,ações,que obj pode realizar  Ex.: Chutar
+    //
+    //Herança - atributos de um obj que são HERDADOS de uma classe
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+}
  
     
     
