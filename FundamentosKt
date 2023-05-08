@@ -984,5 +984,117 @@ class Pessoa{
     
     
 }
+     
+ fun main() {
+    /*  
+    var pessoa1 = Pessoa() //instanciamos um obj
     
+    println(pessoa1.peso) //Exibir um atributo de um obj
+    println(pessoa1.nome)
+     println(pessoa1.idade)
+     println(pessoa1.altura)
+     println(pessoa1.profissão)
+      println(pessoa1.dinheiro)
+     println(pessoa1.nacionalidade)
+     println(pessoa1.cidade)
+     println(pessoa1.estado)
+    
+    
+    
+    
+    
+    //Exercicio -> Faça uma apresentação sua,utilizando a classe Pessoa() já criada e utilizando pelo
+    //menos,todos os atributos que existem na classe
+    
+    var pessoa2 = Pessoa()
+    pessoa2.nome = "Cauã"
+    pessoa2.idade = 16
+    pessoa2.nacionalidade = "brasileiro"
+    pessoa2.idioma = "portugues"
+    pessoa2.profissão = "desenvolvedor mobile"
+    print("Meu nome é ${pessoa2.nome},eu tenho ${pessoa.idade},eu sou ${pessoa2.nacionalidade},eu falo")
+    println("${pessoa2.idioma} e minha profissão é ${pessoa2.profissão}")
+    */
+    
+     var pessoa3 = Pessoa()
+     var animal1 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal2 = Animal()
+     // Exercicios -> Faça o catálogo(fictício) de animais que estão morando no zoologico de SP
+     // com no minimo 20 animais, sem repetição de raça
+    
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+    
+}
+
+ class Animal(var especie: String, // atributos que todo animalzin deve ter
+              var raca: String,
+              var idade: Int,
+              var dieta: String,
+              var habitat: String,
+              var porte: String){
+     
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+class Pessoa{
+    //Atributos que toda pessoa pode ter
+    var nome = "Cauã"
+    var idade = 16
+    var altura = 1.70
+    var peso = 81.00
+    var profissão = "desenvolvedor mobile"
+    var dinheiro = 50.00
+    var nacionalidade = "Brasil"
+    var cidade = "São Paulo"
+    var estado = "São Paulo"
+    
+    
+    
+    
+    
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+}
    
