@@ -1080,6 +1080,91 @@ class Pessoa{
     
     
 }
+ 
+fun main() {
+    //Exercicio -> Faça uma apresentação sua,utilizando a classe Pessoa() já criada e utilizando pelo
+    //menos,todos os atributos que existem na classe
+    
+    var pessoa2 = Pessoa()
+    pessoa2.nome = "Cauã"
+    pessoa2.idade = 16
+    pessoa2.nacionalidade = "brasileiro"
+    pessoa2.idioma = "portugues"
+    pessoa2.profissão = "desenvolvedor mobile"
+    print("Meu nome é ${pessoa2.nome},eu tenho ${pessoa.idade},eu sou ${pessoa2.nacionalidade},eu falo")
+    println("${pessoa2.idioma} e minha profissão é ${pessoa2.profissão}")
+    */
+    
+     var pessoa3 = Pessoa()
+     var animal1 = Animal("Macaco","Mico-Leão",7,"frutas","pequeno")
+     var animal1 = Animal("Anta","Anta",30," fruto","grande")
+     var animal3 = Animal("Lhama","Lhama",9,"mato","grande")
+     var animal4 = Animal("Lobo","Lobo-guara",5,"animais pequenos","medio")
+     var animal5 = Animal("Quati","Quati",7,"animais pequenos","pequeno")
+     var animal6 = Animal("Tamanduá","Tamanduá-mirim",3,"insetos","pequeno")
+     var animal7 = Animal("Tatu","Tatu-bola",2,"onivoro","pequeno")
+     var animal8 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal9 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal10 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal11= Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal12 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal13 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal14 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal15 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal16 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal17 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal18 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal19 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+     var animal20 = Animal("Cachorro","Pinscher",7,"chinelo","grande")
+      
+     
+     
+     
+     
+     
+     
+     // Exercicios -> Faça o catálogo(fictício) de animais que estão morando no zoologico de SP
+     // com no minimo 20 animais, sem repetição de raça
+    
+}
+
+ class Animal(var especie: String, // atributos que todo animalzin deve ter
+              var raca: String,
+              var idade: Int,
+              var dieta: String,
+              var habitat: String,
+              var porte: String){
+     
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+class Pessoa{
+    //Atributos que toda pessoa pode ter
+    var nome = "Cauã"
+    var idade = 16
+    var altura = 1.70
+    var peso = 81.00
+    var profissão = "desenvolvedor mobile"
+    var dinheiro = 50.00
+    var nacionalidade = "Brasil"
+    var cidade = "São Paulo"
+    var estado = "São Paulo"
+    
+    
+    
+    
+    
+}
+    
+}
     
     
     
